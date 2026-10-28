@@ -1,0 +1,10 @@
+streamlit
+pandas
+qrcode
+pillow
+reportlab
+arabic-reshaper
+python-bidi
+openpyxl
+plotly
+WeasyPrint
